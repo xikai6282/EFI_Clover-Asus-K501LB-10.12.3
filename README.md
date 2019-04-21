@@ -1,5 +1,6 @@
-# EFI_Clover-Asus-K501LB-10.12.3
-# ASUS A/K501LB Hackintosh Support only 10.12.3 华硕 A/K501LB 黑苹果EFI clover引导文件 只测试了10.12.3。   		感谢insanelymac网站的nguyenlc1993大大，基于他修改的EFI引导适配国行501LB机型。  	
+
+# ASUS A/K501LB Hackintosh Support only 10.12.3 华硕 A/K501LB 黑苹果EFI clover引导文件 只测试了10.12.3。   		
+# 感谢insanelymac网站的nguyenlc1993大大，基于他修改的EFI引导适配国行501LB机型。  	
 # AirPortAtheros40.kext和VoodooHDA.kext用Kext Utility.app安装。
 # 我的501配置如下（换过屏，加了内存条和固态，其他都是原配）： 
 # CPU:i5-5200U  显卡：集显HD5500、独显940M（已屏蔽） 		 
